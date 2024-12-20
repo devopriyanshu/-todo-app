@@ -1,0 +1,197 @@
+{
+    "todos":[
+    {
+      "user": "64c8e02f12ab3c65d76f93e2",
+      "text": "Finish the React Query integration",
+      "completed": false,
+      "createdAt": "2024-12-10T10:30:00Z",
+      "completedAt": null
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e2",
+      "text": "Write unit tests for authentication API",
+      "completed": true,
+      "createdAt": "2024-12-08T08:15:00Z",
+      "completedAt": "2024-12-09T15:00:00Z"
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e3",
+      "text": "Set up Redux Toolkit for UI state",
+      "completed": false,
+      "createdAt": "2024-12-11T09:00:00Z",
+      "completedAt": null
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e4",
+      "text": "Complete backend API documentation",
+      "completed": true,
+      "createdAt": "2024-12-06T14:30:00Z",
+      "completedAt": "2024-12-07T11:45:00Z"
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e2",
+      "text": "Fix the todo application bug",
+      "completed": false,
+      "createdAt": "2024-12-12T13:00:00Z",
+      "completedAt": null
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e3",
+      "text": "Optimize database queries",
+      "completed": true,
+      "createdAt": "2024-12-09T11:20:00Z",
+      "completedAt": "2024-12-10T18:30:00Z"
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e5",
+      "text": "Add responsive design to UI",
+      "completed": false,
+      "createdAt": "2024-12-11T15:45:00Z",
+      "completedAt": null
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e6",
+      "text": "Prepare project presentation",
+      "completed": true,
+      "createdAt": "2024-12-01T08:00:00Z",
+      "completedAt": "2024-12-02T10:00:00Z"
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e7",
+      "text": "Implement user roles and permissions",
+      "completed": false,
+      "createdAt": "2024-12-10T10:00:00Z",
+      "completedAt": null
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e8",
+      "text": "Review project documentation",
+      "completed": true,
+      "createdAt": "2024-12-08T13:30:00Z",
+      "completedAt": "2024-12-09T09:15:00Z"
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e9",
+      "text": "Refactor API endpoints",
+      "completed": false,
+      "createdAt": "2024-12-12T16:00:00Z",
+      "completedAt": null
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e10",
+      "text": "Set up CI/CD pipeline",
+      "completed": true,
+      "createdAt": "2024-12-05T08:20:00Z",
+      "completedAt": "2024-12-06T12:00:00Z"
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e11",
+      "text": "Write integration tests",
+      "completed": false,
+      "createdAt": "2024-12-13T14:10:00Z",
+      "completedAt": null
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e12",
+      "text": "Deploy the application to production",
+      "completed": true,
+      "createdAt": "2024-12-07T10:00:00Z",
+      "completedAt": "2024-12-08T17:30:00Z"
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e13",
+      "text": "Update README with project details",
+      "completed": false,
+      "createdAt": "2024-12-11T08:30:00Z",
+      "completedAt": null
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e14",
+      "text": "Fix UI design inconsistencies",
+      "completed": true,
+      "createdAt": "2024-12-06T13:00:00Z",
+      "completedAt": "2024-12-07T11:00:00Z"
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e15",
+      "text": "Analyze project metrics",
+      "completed": false,
+      "createdAt": "2024-12-14T12:00:00Z",
+      "completedAt": null
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e16",
+      "text": "Prepare slides for the team meeting",
+      "completed": true,
+      "createdAt": "2024-12-04T09:30:00Z",
+      "completedAt": "2024-12-04T12:45:00Z"
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e17",
+      "text": "Test edge cases in API responses",
+      "completed": false,
+      "createdAt": "2024-12-15T11:15:00Z",
+      "completedAt": null
+    },
+    {
+      "user": "64c8e02f12ab3c65d76f93e18",
+      "text": "Finalize project milestones",
+      "completed": true,
+      "createdAt": "2024-12-06T10:00:00Z",
+      "completedAt": "2024-12-06T14:00:00Z"
+    }
+  ],
+  "users":[
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "$2b$10$zZdO1e5ywJWm2xO78G7cxe9KXY2sp3QlM3RuUy5Ah2e/fFxPMPJ.q"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "password": "$2b$10$zZdO1e5ywJWm2xO78G7cxe9KXY2sp3QlM3RuUy5Ah2e/fFxPMPJ.q"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "password": "$2b$10$zZdO1e5ywJWm2xO78G7cxe9KXY2sp3QlM3RuUy5Ah2e/fFxPMPJ.q"
+    },
+    {
+      "name": "Bob Brown",
+      "email": "bob.brown@example.com",
+      "password": "$2b$10$zZdO1e5ywJWm2xO78G7cxe9KXY2sp3QlM3RuUy5Ah2e/fFxPMPJ.q"
+    },
+    {
+      "name": "Charlie White",
+      "email": "charlie.white@example.com",
+      "password": "$2b$10$zZdO1e5ywJWm2xO78G7cxe9KXY2sp3QlM3RuUy5Ah2e/fFxPMPJ.q"
+    },
+    {
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "password": "$2b$10$zZdO1e5ywJWm2xO78G7cxe9KXY2sp3QlM3RuUy5Ah2e/fFxPMPJ.q"
+    },
+    {
+      "name": "Frank Wilson",
+      "email": "frank.wilson@example.com",
+      "password": "$2b$10$zZdO1e5ywJWm2xO78G7cxe9KXY2sp3QlM3RuUy5Ah2e/fFxPMPJ.q"
+    },
+    {
+      "name": "Grace Hall",
+      "email": "grace.hall@example.com",
+      "password": "$2b$10$zZdO1e5ywJWm2xO78G7cxe9KXY2sp3QlM3RuUy5Ah2e/fFxPMPJ.q"
+    },
+    {
+      "name": "Henry Scott",
+      "email": "henry.scott@example.com",
+      "password": "$2b$10$zZdO1e5ywJWm2xO78G7cxe9KXY2sp3QlM3RuUy5Ah2e/fFxPMPJ.q"
+    },
+    {
+      "name": "Isla Moore",
+      "email": "isla.moore@example.com",
+      "password": "$2b$10$zZdO1e5ywJWm2xO78G7cxe9KXY2sp3QlM3RuUy5Ah2e/fFxPMPJ.q"
+    }
+  ]
+}
+  
